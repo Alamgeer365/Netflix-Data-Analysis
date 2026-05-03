@@ -20,10 +20,5 @@ This project analyzes Netflix Movies and TV Shows dataset using Python.
 - USA & India are top producers
 - Movies dominate over TV shows
 
-## 📸 Sample Visualizations
-
-![Genres](images/genres.png)
-![Growth](images/growth.png)
-
 ## 🚀 Conclusion
 This project demonstrates data cleaning, EDA, and visualization skills using real-world dataset.
